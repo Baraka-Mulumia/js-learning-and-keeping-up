@@ -1,0 +1,35 @@
+{
+  "name": "learning-js-with-frontend-masters",
+  "version": "1.0.0",
+  "description": "Go From Professional Web Developer to Lead Engineer Move up from professional web developer to a senior-level engineer. This path is for aspiring lead developers.",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start-deep-js": "nodemon deepjs-foundations/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baraka-Mulumia/learning-js-with-frontend-masters.git"
+  },
+  "keywords": [
+    "The-Hard-Parts",
+    "Deep-JavaScript-Foundations",
+    "Functional-JavaScript-First-Steps",
+    "TypeScript-Fundamentals"
+  ],
+  "author": "Baraka Mulumia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baraka-Mulumia/learning-js-with-frontend-masters/issues"
+  },
+  "homepage": "https://github.com/Baraka-Mulumia/learning-js-with-frontend-masters#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.1",
+    "lodash-es": "^4.17.21",
+    "mongoid-js": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
