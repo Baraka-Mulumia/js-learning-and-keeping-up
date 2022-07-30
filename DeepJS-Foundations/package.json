@@ -1,0 +1,27 @@
+{
+  "name": "deepjs-foundations",
+  "version": "1.0.0",
+  "description": "Dive into JavaScript's core language features; types & coercion, scope & closure, and JavaScript's object-oriented system.",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baraka-Mulumia/learning-js-with-frontend-masters.git"
+  },
+  "keywords": [
+    "types",
+    "coercion",
+    "scope",
+    "closure"
+  ],
+  "author": "Baraka Mulumia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Baraka-Mulumia/learning-js-with-frontend-masters/issues"
+  },
+  "homepage": "https://github.com/Baraka-Mulumia/learning-js-with-frontend-masters#readme"
+}
