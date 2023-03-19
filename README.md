@@ -1,2 +1,2 @@
-# learning-js-with-frontend-masters
-Go From Professional Web Developer to Lead Engineer Move up from professional web developer to a senior-level engineer. This path is for aspiring lead developers.
+# Write Professional, Modern JavaScript 
+From JavaScript foundations, all the way to Hardcore Functional JavaScript, find out how far you can go with your JavaScript abilities
